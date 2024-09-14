@@ -46,6 +46,8 @@ This class provides a command-line interface to test if strings are palindromes.
 ## Example
 Here is an example of how to use the Palindrome Checker:
 
+<img src ="https://github.com/lihviaa/Palindromes/blob/main/assets/execucao_palindromo.png" alt="Execução do programa">
+
 ## Notes
 - The **`Palindrome`** class normalizes input text by removing diacritics and non-alphanumeric characters and converting it to lowercase to ensure accurate palindrome checks.
 - The **`PalindromeTest`** class uses `Scanner` to read input from the user and displays results on the command line.
